@@ -1,4 +1,4 @@
-# yt-auth
+# Auth System
 
 A RESTful authentication microservice built with Node.js, Express, and MongoDB. It handles user registration, email verification via OTP, JWT-based login sessions, and multi-device session management with token rotation and revocation.
 
